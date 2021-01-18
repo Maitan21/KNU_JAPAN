@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103" height="34" viewBox="0 0 103 34">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 60px;
+        fill: #fff;
+        font-family: "Uni Sans  ";
+      }
+
+      .cls-2 {
+        fill: #ff0006;
+        font-family: Bebas;
+        font-size: 78px;
+      }
+    </style>
+  </defs>
+  <image id="레이어_1" data-name="레이어 1" x="-50" y="39" width="17" height="8" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAICAYAAAAftBSpAAAA7UlEQVQokX3RvUoDQRTF8d+urpsECRaCgp1aWvgCKcUnsPE1tROxF2wtJKlFYogQNTEfOzJhtojBXBiGe5jz59w7WQjhDKezwfBkdH9TzJ9ux8Vnv8qrQlhkKgvBXJXLs/Zh2bq4npSdy55G2Q28wzbaOIqgjCJjgsp65SjxjTHeMKoh57hCJz2Urfizv0oEPOAH0xqyh/0IyGrK5mriIPkaNaSZjpC88V5Ns1a7ybNTQ4ZpvuMoVEz/SRO5BWZ4xUcabQl5xl0Si8BXWmwKE3MtM8a+lYyPeMGghvTRxVbsN/xOhMQdxIX2EmAMv8XCRJgJgMWlAAAAAElFTkSuQmCC"/>
+  <text id="Emong." class="cls-1" transform="translate(4.349 24.774) scale(0.519 0.511)">Emong<tspan class="cls-2">.</tspan></text>
+</svg>
